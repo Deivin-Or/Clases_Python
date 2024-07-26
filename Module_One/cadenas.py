@@ -81,3 +81,5 @@ print('{:.3f} + {:.4f} = {}'.format(2, 3, 2 + 3 ))
 print('{1} + {0} = {2}'.format(2, 3, 2 + 3 ))
 print('{2} + {0} = {1}'.format('Hola', 'Mundo', 'Hola Mundo'))
 print('{:d} = {:b} = {:o} = {:x}'.format(15, 15, 15, 15))
+
+# prueba de cadena
