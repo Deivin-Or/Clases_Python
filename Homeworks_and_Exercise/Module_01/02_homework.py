@@ -37,3 +37,6 @@ igual = num1 == num2
 print(f"¿El primer número es mayor que el segundo? {mayor}")
 print(f"¿El primer número es menor que el segundo? {menor}")
 print(f"¿Los dos números son iguales? {igual}")
+
+
+########################################################################
