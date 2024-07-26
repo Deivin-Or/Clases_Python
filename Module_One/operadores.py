@@ -38,4 +38,3 @@
 # Por Jerarquía de operacion
 x = 6 * 5 + 8 / 2 ** 4
 print(x)
-
